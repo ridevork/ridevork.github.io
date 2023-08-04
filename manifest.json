@@ -1,6 +1,6 @@
 {
-  "name": "PWA-App", // installation name
-  "short_name": "PWA", // app title name
+  "name": "PWA-App",
+  "short_name": "PWA",
   "start_url": ".",
   "theme_color": "#4287f5",
   "background_color": "#ffffff",
