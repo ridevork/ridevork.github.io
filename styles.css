@@ -37,7 +37,7 @@ body {
     flex-shrink: 0;
 }
 
-.play-button:active {
+.play-button:hover {
     border: 2px solid #0056b3;
     background-color: #007bff;
     transform: translateY(2px);
