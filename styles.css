@@ -38,7 +38,10 @@ body {
 }
 
 .play-button:hover {
+    border: 2px solid #01458c;
     background-color: #0056b3;
+    transform: translateY(4px);
+    border-bottom-width: 2px;
 }
 
 .play-button:active {
