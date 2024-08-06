@@ -38,15 +38,14 @@ body {
 }
 
 .play-button:hover {
-    border: 2px solid #01458c;
-    background-color: #0056b3;
+    border: 2px solid #0056b3;
+    background-color: #007bff;
     transform: translateY(4px);
     border-bottom-width: 2px;
+    
 }
 
-.play-button:active {
-    transform: scale(0.95);
-}
+
 
 .play-icon {
     width: 20px;
