@@ -22,5 +22,29 @@
         "japanese": "Sayounara, さようなら",
         "audio": "sounds/goodbye.m4a",
         "color": "none"
+    },
+	{
+        "english": "Thank You",
+        "japanese": "Arigatou Gozaimasu, ありがとうございます",
+        "audio": "sounds/thank_you.m4a",
+        "color": "none"
+    },
+    {
+        "english": "Excuse Me",
+        "japanese": "Sumimasen, すみません",
+        "audio": "sounds/excuse_me.m4a",
+        "color": "none"
+    },
+    {
+        "english": "Sorry",
+        "japanese": "Gomen Nasai, ごめんなさい",
+        "audio": "sounds/sorry.m4a",
+        "color": "none"
+    },
+    {
+        "english": "Sorry (Formal)",
+        "japanese": "Mōshiwake Arimasen, もうしわけ ありません",
+        "audio": "sounds/sorry_formal.m4a",
+        "color": "none"
     }
 ]
