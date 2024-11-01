@@ -3,19 +3,19 @@
         "english": "Good Morning",
         "japanese": "Ohayou gozaimasu",
         "audio": "sounds/good_morning.m4a",
-        "color": "none"
+        "color": "green"
     },
     {
         "english": "Good Afternoon",
         "japanese": "Konnichiwa",
         "audio": "sounds/good_afternoon.m4a",
-        "color": "none"
+        "color": "green"
     },
     {
         "english": "Good Evening",
         "japanese": "Konbanwa",
         "audio": "sounds/good_evening.m4a",
-        "color": "none"
+        "color": "green"
     },
     {
         "english": "Goodbye",
@@ -27,24 +27,24 @@
         "english": "Thank You",
         "japanese": "Arigatou Gozaimasu",
         "audio": "sounds/thank_you.m4a",
-        "color": "none"
+        "color": "yellow"
     },
     {
         "english": "Excuse Me",
         "japanese": "Sumimasen",
         "audio": "sounds/excuse_me.m4a",
-        "color": "none"
+        "color": "yellow"
     },
     {
         "english": "Sorry",
         "japanese": "Gomen Nasai",
         "audio": "sounds/sorry.m4a",
-        "color": "none"
+        "color": "red"
     },
     {
         "english": "Sorry (Formal)",
         "japanese": "Mōshiwake Arimasen",
         "audio": "sounds/sorry_formal.m4a",
-        "color": "none"
+        "color": "yellow"
     }
 ]
