@@ -3,19 +3,19 @@
         "english": "Good Morning",
         "japanese": "Ohayou gozaimasu",
         "audio": "sounds/good_morning.m4a",
-        "color": "green"
+        "color": "none"
     },
     {
         "english": "Good Afternoon",
         "japanese": "Konnichiwa",
         "audio": "sounds/good_afternoon.m4a",
-        "color": "green"
+        "color": "none"
     },
     {
         "english": "Good Evening",
         "japanese": "Konbanwa",
         "audio": "sounds/good_evening.m4a",
-        "color": "green"
+        "color": "none"
     },
     {
         "english": "Goodbye",
